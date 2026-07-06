@@ -1,5 +1,15 @@
 # Changelog
 
+## 6.45.1 (2026-07-06)
+
+Full Changelog: [v6.45.0...v6.45.1](https://github.com/openai/openai-node/compare/v6.45.0...v6.45.1)
+
+### Bug Fixes
+
+* **assistants:** place array delta entries by index instead of appending ([#1963](https://github.com/openai/openai-node/issues/1963)) ([0e18d30](https://github.com/openai/openai-node/commit/0e18d30a31595acf0fd5e03b8e6bbf8bf31d15d1))
+* **runner:** normalize missing tool call IDs ([#1958](https://github.com/openai/openai-node/issues/1958)) ([6371623](https://github.com/openai/openai-node/commit/6371623aadd26ec34a0edecba62a0a10c834b37d))
+* upgrade next to 15.5.16 in examples ([#1967](https://github.com/openai/openai-node/issues/1967)) ([95b54e5](https://github.com/openai/openai-node/commit/95b54e5894910e31d01ef418ef0de31e9d653b08))
+
 ## 6.45.0 (2026-06-24)
 
 Full Changelog: [v6.44.0...v6.45.0](https://github.com/openai/openai-node/compare/v6.44.0...v6.45.0)
